@@ -1,5 +1,5 @@
 # Resume
-======
+
 
 I have been writing software for more than 13 years and have always tried to stay ahead of the pack by keeping up with the latest in technology. Apart from a passion for technology, I am passionate about imparting whatever it is that I learn. I have authored [two books on C#](http://www.amazon.com/author/dirkstrauss) and have written numerous blog posts and contributed to various guest articles on other sites such as BitRebels. 
 
