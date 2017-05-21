@@ -12,4 +12,4 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 * [StackOverflow Story](http://stackoverflow.com/story/dirkstrauss)
 * [Dirk Strauss Blog](https://dirkstrauss.com)
 * [Developer Community Channel](http://www.youtube.com/developercommunity)
-* [Twitter](www.twitter.com/dirkstrauss)
+* [Twitter](https://www.twitter.com/dirkstrauss)
