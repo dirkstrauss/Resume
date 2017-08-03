@@ -1,5 +1,6 @@
 
-<img style="float: right;" src="https://github.com/dirkstrauss/mycdn/raw/master/MVP/mvpLogo.png">
+![MVP Logo](https://github.com/dirkstrauss/mycdn/raw/master/MVP/mvpLogo.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 # Resume
 
 
