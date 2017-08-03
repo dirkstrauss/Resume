@@ -1,3 +1,4 @@
+![MVP Logo](https://github.com/dirkstrauss/mycdn/raw/master/MVP/mvpLogo.png)
 # Resume
 
 
