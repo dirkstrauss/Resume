@@ -8,7 +8,7 @@ I started my career at a small privately owned company, developing ASP.NET Web A
 
 After 8 years doing SYSPRO integration, I decided that it was time to move on. I am currently employed by a company in Cape Town, South Africa where I can live out my creativity developing responsive web applications. 
 
-# Online
+# Find me Online at...
 
 * [StackOverflow Story](http://stackoverflow.com/story/dirkstrauss)
 * [Dirk Strauss Blog](https://dirkstrauss.com)
