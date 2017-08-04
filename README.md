@@ -9,7 +9,7 @@ I started my career at a small privately owned company, developing ASP.NET Web A
 After 8 years doing SYSPRO integration, I decided that it was time to move on. I am currently employed by a company in Cape Town, South Africa where I can live out my creativity developing responsive web applications. 
 
 # Skills (Every Day Use)
-* C#
+* C# 7.0
   * ASP.NET
   * JSON
   * XML
@@ -26,6 +26,7 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
   * Advanced Form Customization
 * SQL
 * Bootstrap
+* VB.NET (Rarely use but proficient)
 
 # Skills (Improving Proficiency)
 * ASP.NET Core MVC
