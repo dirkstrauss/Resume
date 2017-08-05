@@ -31,6 +31,7 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 # Skills (Improving Proficiency)
 * ASP.NET Core MVC
 * .NET Core
+* Azure
 
 # Skills (Learning)
 * Swift
