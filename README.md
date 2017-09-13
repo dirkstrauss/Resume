@@ -68,4 +68,7 @@ Developed by Microsoft’s Research in Software Engineering, Code Contracts prov
 
 ![Code Contracts](https://github.com/dirkstrauss/mycdn/raw/master/publications/csharpcontracts-succinctly.png)
 
+## Asynchronous Programming Succinctly
+Unresponsive or sluggish applications can give the impression of a broken or low-quality app. Using asynchronous programming methods, apps can be made to function well even when performing other tasks. In Asynchronous Programming Succinctly, Dirk Strauss shows readers how to use Microsoft Visual Studio to create apps that function well even when performing tasks.
 
+![Asynchronous Programming](https://github.com/dirkstrauss/mycdn/raw/master/publications/Asynchronous_Programming_Succinctly.png)
