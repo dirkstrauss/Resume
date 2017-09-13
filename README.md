@@ -51,6 +51,11 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 
 # Publications
 
+## Asynchronous Programming Succinctly
+Unresponsive or sluggish applications can give the impression of a broken or low-quality app. Using asynchronous programming methods, apps can be made to function well even when performing other tasks. In Asynchronous Programming Succinctly, Dirk Strauss shows readers how to use Microsoft Visual Studio to create apps that function well even when performing tasks.
+
+![Asynchronous Programming](https://github.com/dirkstrauss/mycdn/raw/master/publications/Asynchronous_Programming_Succinctly.png)
+
 ## C# 7 and .NET Core Cookbook
 C# has recently been open-sourced and C# 7 comes with a host of new features for building powerful, cross-platform applications.
 
@@ -67,8 +72,3 @@ During your application development workflow, there is always a moment when you 
 Developed by Microsoft’s Research in Software Engineering, Code Contracts provide a way to convey code assumptions in your .NET applications. They can take the form of preconditions, postconditions, and state invariants. In C# Code Contracts Succinctly, author Dirk Strauss demonstrates how to use Code Contracts to validate logical correctness in code, how they can be integrated with abstract classes and interfaces, and even how they can be used to make writing documentation less painful.
 
 ![Code Contracts](https://github.com/dirkstrauss/mycdn/raw/master/publications/csharpcontracts-succinctly.png)
-
-## Asynchronous Programming Succinctly
-Unresponsive or sluggish applications can give the impression of a broken or low-quality app. Using asynchronous programming methods, apps can be made to function well even when performing other tasks. In Asynchronous Programming Succinctly, Dirk Strauss shows readers how to use Microsoft Visual Studio to create apps that function well even when performing tasks.
-
-![Asynchronous Programming](https://github.com/dirkstrauss/mycdn/raw/master/publications/Asynchronous_Programming_Succinctly.png)
