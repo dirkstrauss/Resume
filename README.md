@@ -5,7 +5,7 @@ I have been writing software since 2005 and have always tried to stay ahead of t
 
 I started my career at a small privately owned company, developing ASP.NET Web Applications using VB.NET and C#. Later I moved to a national company where I did SYSPRO integration and customization using C# as my main language. 
 
-After 8 years doing SYSPRO integration, I decided that it was time to move on. I am currently employed by a company in Cape Town, South Africa where I can live out my creativity developing responsive web applications. 
+After 8 years doing SYSPRO integration, I decided that it was time to move on. I am currently employed by a company in the UK where I can live out my creativity developing exciting integrations and applications.
 
 # Skills (Every Day Use)
 * C#
