@@ -8,6 +8,7 @@ I started my career at a small privately owned company, developing ASP.NET Web A
 After 8 years doing SYSPRO integration, I decided that it was time to move on. I am currently employed by a company in the UK where I can live out my creativity developing exciting integrations and applications.
 
 # Skills (Every Day Use)
+* ASP.NET Core
 * C#
   * ASP.NET
   * JSON
@@ -27,14 +28,9 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 * Bootstrap
 * VB.NET (Rarely use but proficient)
 
-# Skills (Improving Proficiency)
-* ASP.NET Core MVC
-* .NET Core
-* Azure
-
 # Skills (Learning)
 * Swift
-* Xamarin  
+* Xcode
 
 # Find me Online at...
 
