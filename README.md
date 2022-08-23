@@ -34,7 +34,6 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 
 # Find me Online at...
 
-* [StackOverflow Story](http://stackoverflow.com/story/dirkstrauss)
 * [Dirk Strauss Blog](https://dirkstrauss.com)
 * [Developer Community Channel](http://www.youtube.com/developercommunity)
 * [Twitter](https://www.twitter.com/dirkstrauss)
@@ -42,5 +41,5 @@ After 8 years doing SYSPRO integration, I decided that it was time to move on. I
 * [Experts Exchange](https://rdsrc.us/AQS1sy)
 * [Microsoft MVP Profile](http://bit.ly/2cPDeY0)
 * [LinkedIn](http://za.linkedin.com/in/dirkstrauss)
-* [NuGet](https://preview.nuget.org/profiles/dirkstrauss)
+* [NuGet](https://www.nuget.org/profiles/dirkstrauss)
 
